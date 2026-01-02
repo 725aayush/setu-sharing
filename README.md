@@ -60,16 +60,16 @@ Instead of uploading files to third-party cloud services, files remain on the ho
 > 📌 Add screenshots in a `screenshots/` folder and reference them below
 
 ### 🔹 Share Creation Interface
-![Create Share](screenshots/create_share.png)
+[![create_share.png](https://i.postimg.cc/fLP1h6jC/create_share.png)](https://postimg.cc/ftx8cqPS)
 
 ### 🔹 Password Authentication
-![Authentication](screenshots/auth.png)
+[![auth.png](https://i.postimg.cc/ZRQXh1FL/auth.png)](https://postimg.cc/8JhZRXYF))
 
 ### 🔹 File Browser & Download
-![File List](screenshots/file_list.png)
+[![file_list.png](https://i.postimg.cc/mDnKG0NV/file_list.png)](https://postimg.cc/Kkn0PpWg)
 
 ### 🔹 QR Code for Access
-![QR Code](screenshots/qr_code.png)
+[![qr_code.png](https://i.postimg.cc/3RqzHPCB/qr_code.png)](https://postimg.cc/DJqxrpNJ)
 
 ## How It Works (Flow)
 User selects a local directory
